@@ -16,8 +16,12 @@ body{
 }
 
 .wrapper{
+<<<<<<< HEAD
     width: 420px;
     height: 580px;
+=======
+    width: 500px;
+>>>>>>> d1625ef52ca6d16721cbbf6e43e45577f7b50f88
     background : transparent;
     background: rgba(54, 54, 54, 0.8);
     padding: 30px;
@@ -124,24 +128,40 @@ body{
     top: 0;
 }
 
+<<<<<<< HEAD
 .wrapper .longin-link{
+=======
+.wrapper .register-link{
+>>>>>>> d1625ef52ca6d16721cbbf6e43e45577f7b50f88
     font-size: 14.5px;
     text-align: center;
     margin-top: 20px;
     margin: 20px 0 15px;
 }
 
+<<<<<<< HEAD
 .longin-link p a {
+=======
+.register-link p a {
+>>>>>>> d1625ef52ca6d16721cbbf6e43e45577f7b50f88
     color: #fff;
     text-decoration: none;
     font-weight: 600;
 }
 
+<<<<<<< HEAD
 .longin-link p{
     color: red;
 }
 
 .longin-link p a:hover{
+=======
+.register-link p{
+    color: red;
+}
+
+.register-link p a:hover{
+>>>>>>> d1625ef52ca6d16721cbbf6e43e45577f7b50f88
     text-decoration: underline;
 }
 

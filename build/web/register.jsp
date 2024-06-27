@@ -17,7 +17,11 @@
         <title>SIGN UP</title>
     </head>
     <body>
+<<<<<<< HEAD
         <div class="wrapper">
+=======
+        <div class="wrapper-register">
+>>>>>>> d1625ef52ca6d16721cbbf6e43e45577f7b50f88
         <h1>Sign Up</h1>
         <form action="MainController" method="POST">
             
@@ -33,8 +37,19 @@
             </div>
             <div class="input-box">
                 <input type="text" required name="txtFirstName"> 
+<<<<<<< HEAD
                 <label>Full Name</label>
                 <i class='bx bxs-user'></i>
+=======
+                <label>First Name</label>
+                <i class='bx bxs-user'></i>
+            </div>
+            <div class="input-box">
+                <input type="text" required name="txtLastName"> 
+                <label>Last Name</label>
+                <i class='bx bxs-user'></i>
+            </div>
+>>>>>>> d1625ef52ca6d16721cbbf6e43e45577f7b50f88
             
             <div class='input-box'>
                 <input type="text" required name="phoneNumber"> 
@@ -45,7 +60,11 @@
             <button type="submit" class="btn" name="btAction" value="Register">Sign Up</button>
             
             <div class="longin-link">
+<<<<<<< HEAD
                 <p>Already have an account? 
+=======
+                p>Already have an account? 
+>>>>>>> d1625ef52ca6d16721cbbf6e43e45577f7b50f88
                 <a href="login.html">Login</a></p>
             </div>
         </form>
